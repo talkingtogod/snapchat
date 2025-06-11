@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_2CAPTCHA_API_KEY",
+  "user": "TARGET_SNAPCHAT_USERNAME",
+  "message": "REASON_FOR_REPORTING_MESSAGE"
+}
