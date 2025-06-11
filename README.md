@@ -1,6 +1,6 @@
-Snapchat Mass Report Tool
+# Snapchat Mass Report Tool
 
-A Python-based script to automate mass reporting of Snapchat accounts via the Snapchat support API.
+Automate Snapchat account reporting with this #snapchatmassreport tool using #python and #2captcha. Designed for #automation and easy use.
 
 --------------------------------------------------
 
